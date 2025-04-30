@@ -11,4 +11,10 @@ $ pip install pyaes
 
 $ pip install pyaes --break-system-packages
 
+
+- Instalação da dependencia: 
+![RCE](./img/pyaes.png)
+
+
+- Exemplo de uso: 
 ![RCE](./img/smithcry.png)
