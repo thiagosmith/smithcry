@@ -17,6 +17,8 @@ $ pip install pyaes --break-system-packages
 ![RCE](./img/pyaes.png)
 
 
+## Executando o RansonWare no arquivo smith.txt
+
 - Exemplo de uso:
   
 ![RCE](./img/smithcry.png)
