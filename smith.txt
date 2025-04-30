@@ -1,0 +1,26 @@
+Arquvo legível
+
+Senhas de acesso:
+
+- 5m1th Bank
+
+AG: 1234-5
+CC: 12.345.678-9
+CPF: 012.345.678-99
+Senha Internet: 987654321
+Senha Transações: 987654
+
+- E-mail:
+
+User: smith@5m1th.mail
+Pass: Hacker@123#!!---
+
+- Cloud
+
+Hauwei / Azure / GPC / OCI / AWS
+User: smith.acesso.cloud@5m1th.mail
+Pass: CloudSecurity!@#$%¨&*()_+2025
+
+- Token:
+
+5m1thcryransonwr
