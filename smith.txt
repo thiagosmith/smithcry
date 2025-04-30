@@ -10,10 +10,12 @@ CPF: 012.345.678-99
 Senha Internet: 987654321
 Senha Transações: 987654
 
+
 - E-mail:
 
 User: smith@5m1th.mail
 Pass: Hacker@123#!!---
+
 
 - Cloud
 
@@ -21,6 +23,9 @@ Hauwei / Azure / GPC / OCI / AWS
 User: smith.acesso.cloud@5m1th.mail
 Pass: CloudSecurity!@#$%¨&*()_+2025
 
-- Token:
 
+- Token:
 5m1thcryransonwr
+
+- API: 
+NW0xdGhjcnktUmFuc29uV2FyZQ==
