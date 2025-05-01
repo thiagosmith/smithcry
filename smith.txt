@@ -29,3 +29,30 @@ Pass: CloudSecurity!@#$%¨&*()_+2025
 
 - API: 
 NW0xdGhjcnktUmFuc29uV2FyZQ==
+
+AD Users:
+
+Smith Braz
+User: smith.braz
+Pass: KT2_n3Z3Ii!F
+
+Carlos Tuma
+User: carlos.tuma
+Pass: 3w#Bm3Sf@6EK
+
+Renato Evaristo
+User: renato.evaristo
+Pass: yfQ36#5u_-=+
+
+Rodrigo Carvalho
+User: rodrigo.carvalho
+Pass: wbPG$8o4O!4z4@K
+
+Rodrigo Assis
+User: rodrigo.assis
+Pass: 1Lnwnn5Q7B8n!!-
+
+Eduardo Santana
+User: eduardo.santana
+Pass: U006Inp6nRFB#$!
+
