@@ -3,7 +3,6 @@ Arquivo legível
 Senhas de acesso:
 
 - 5m1th Bank
-
 AG: 1234-5
 CC: 12.345.678-9
 CPF: 012.345.678-99
@@ -12,13 +11,11 @@ Senha Transações: 987654
 
 
 - E-mail:
-
 User: smith@5m1th.mail
 Pass: Hacker@123#!!---
 
 
 - Cloud
-
 Hauwei / Azure / GPC / OCI / AWS
 User: smith.acesso.cloud@5m1th.mail
 Pass: CloudSecurity!@#$%¨&*()_+2025
@@ -31,7 +28,6 @@ Pass: CloudSecurity!@#$%¨&*()_+2025
 NW0xdGhjcnktUmFuc29uV2FyZQ==
 
 AD Users:
-
 Smith Braz
 User: smith.braz
 Pass: KT2_n3Z3Ii!F
